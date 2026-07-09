@@ -2,8 +2,7 @@ Insights into Factors Driving Changes in QS World University Rankings Total Scor
 
 ## Overview
 
-This repository contains the data and Jupyter notebook used for the analysis of factors influencing QS World University Rankings (QS WUR) total scores.
-Focusing on how individual QS ranking indicators contribute to overall ranking performance and how their relative importance changes across ranking years (2024–2026).
+This repository contains the data and Jupyter notebook used for the analysis of factors influencing QS World University Rankings (QS WUR) total scores, focusing on how individual QS ranking indicators contribute to overall ranking performance and how their relative importance changes across ranking years (2024–2026).
 
 ## Research Objectives
 
